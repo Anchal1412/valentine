@@ -19,9 +19,7 @@ function App() {
   const yesClicked = () => {
     setLove(true);
     setMessage(
-      "Tum mere aaj ho 💕\n" +
-      "aur meri har kal ho 💫\n" +
-      "I love you forever ❤️"
+     "Yayyyy! 💖💖 I love you forever 😘"
     );
 
     // 🔊 Play music on Yes click
